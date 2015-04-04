@@ -27,7 +27,7 @@ Gem::Specification.new do |spec|
   spec.version       = Feedcellar::Curses::VERSION
   spec.authors       = ["Masafumi Yokoyama"]
   spec.email         = ["myokoym@gmail.com"]
-  spec.description   = %q{Feedcellar::Curses is a curses interface for Feedcellar.}
+  spec.description   = %q{Feedcellar::Curses is a curses interface for Feedcellar that is full-text searchable RSS feed reader and data store.}
   spec.summary       = %q{Curses interface for Feedcellar}
   spec.homepage      = "https://github.com/feedcellar/feedcellar-curses/"
   spec.license       = "LGPLv2.1 or later"

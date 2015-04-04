@@ -2,7 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/feedcellar-curses.svg)](http://badge.fury.io/rb/feedcellar-curses)
 
-Feedcellar::Curses is a Curses interface for [Feedcellar][].
+Feedcellar::Curses is a Curses interface for [Feedcellar][] that is full-text searchable RSS feed reader and data store.
 
 [Feedcellar]:https://github.com/feedcellar/feedcellar
 
