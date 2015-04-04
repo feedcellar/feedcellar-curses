@@ -30,7 +30,7 @@ Gem::Specification.new do |spec|
   spec.description   = %q{Curses interface for Feedcellar is full-text searchable RSS feed reader by Rroonga.}
   spec.summary       = %q{Curses interface for Feedcellar}
   spec.homepage      = "https://github.com/feedcellar/feedcellar-curses/"
-  spec.license       = "LGPLv2.1 or later"
+  spec.license       = "LGPLv2.1+"
 
   spec.files         = `git ls-files`.split($/)
   spec.executables   = spec.files.grep(%r{^bin/}) {|f| File.basename(f) }
