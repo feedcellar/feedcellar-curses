@@ -29,7 +29,7 @@ module Feedcellar
 
       def initialize(*args)
         super
-        default_base_dir = File.join(File.expand_path("~"), ".feedcellar-curses")
+        default_base_dir = File.join(File.expand_path("~"), ".feedcellar")
         @base_dir = ENV["FEEDCELLAR_HOME"] || default_base_dir
         @database_dir = File.join(@base_dir, "db")
       end
